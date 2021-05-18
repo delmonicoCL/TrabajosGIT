@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto';
+  }
+
+.p-logo img {
+    max-width: 7.5rem;
+    padding: 0.5rem;
+}
+
+.navbar{
+    width: auto;
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer-logo__img {
+    max-width: 85px;
+  }
+
+.cards{
+    margin: 1 rem;
+}
+
+.precio{
+    color: #28A745;
+}
+
+.form{
+  padding: 1rem;
+}
